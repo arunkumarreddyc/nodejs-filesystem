@@ -1,0 +1,1 @@
+## This code gives an API endpoint which will give current date and time. 
